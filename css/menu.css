@@ -1,0 +1,28 @@
+html{
+    min-width: 1400px;
+    max-height: 1000px;
+}
+
+body{
+    background-color: black;
+        margin: 0 auto;
+        width: 100%;
+}
+h1,h5{
+    text-align: center;
+    color: aliceblue;
+}
+
+img{
+    height: 250px; 
+}
+
+p{
+    color: aliceblue;
+    text-align: center;
+}
+
+table.box , td{
+    margin: auto;
+    border:solid 1px gold;
+}
