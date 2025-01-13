@@ -9432,7 +9432,7 @@ html.tablet .ui-to-top {
 	visibility: hidden;
 	opacity: 0;
 	text-align: left;
-	box-shadow: 0 5px 10px 1px rgba(11, 10, 12, 0.3);
+	box-shadow: 0 5px 10px 1px w(11, 10, 12, 0.3);
 	border-radius: 6px;
 	transform: translate3d(0, 30px, 0);
 }
@@ -10247,7 +10247,7 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .context-dark .rd-navbar-fixed .rd-navbar-panel, .bg-gray-700 .rd-navbar-fixed .rd-navbar-panel, .bg-gray-800 .rd-navbar-fixed .rd-navbar-panel, .bg-primary .rd-navbar-fixed .rd-navbar-panel, .bg-primary-darker .rd-navbar-fixed .rd-navbar-panel {
-	background: #252227;
+	background: skyblue;
 }
 
 .context-dark .rd-navbar-fixed .rd-navbar-nav-wrap, .bg-gray-700 .rd-navbar-fixed .rd-navbar-nav-wrap, .bg-gray-800 .rd-navbar-fixed .rd-navbar-nav-wrap, .bg-primary .rd-navbar-fixed .rd-navbar-nav-wrap, .bg-primary-darker .rd-navbar-fixed .rd-navbar-nav-wrap {
@@ -10818,7 +10818,7 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .context-dark .rd-navbar-minimal.rd-navbar-static.rd-navbar--is-stuck, .bg-gray-700 .rd-navbar-minimal.rd-navbar-static.rd-navbar--is-stuck, .bg-gray-800 .rd-navbar-minimal.rd-navbar-static.rd-navbar--is-stuck, .bg-primary .rd-navbar-minimal.rd-navbar-static.rd-navbar--is-stuck, .bg-primary-darker .rd-navbar-minimal.rd-navbar-static.rd-navbar--is-stuck {
-	background: #252227;
+	background: skyblue;
 	border-bottom-color: #151515;
 }
 
@@ -17769,3 +17769,7 @@ a:hover{
 .linkBox > a>strong:hover{
 	color:#c02921 ;
 }
+.logobox>a>img{
+	padding-top: 10px;
+}
+
